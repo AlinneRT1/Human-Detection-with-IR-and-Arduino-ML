@@ -45,7 +45,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#code Images">Prerequisites</a></li>
+        <li><a href="#code images">Code Images</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -110,6 +110,26 @@ You can do this using the command prompt and the pip installer
   ```
 
 ### Code images
+This is a gallery of what this code does and how it looks. For more detailed directions visit the procedure section of our [binder](https://docs.google.com/presentation/d/1KfYwGe0AA0E7Ch4aedEjBdQMeWxgiPScIx-qY8ihDGc/edit#slide=id.gc84627ac26_0_32).
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/80778103/111675350-053ed400-87eb-11eb-9b0c-ca08e73d7e9e.jpg" alt="Diagram" width="300" height="219">
+  </a>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/80778103/111676432-2522c780-87ec-11eb-8f9a-446a2885f6af.jpg" alt="Diagram" width="400" height="281">
+  </a>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/80778103/111676442-281db800-87ec-11eb-974e-5e4b2275f6ad.jpg" alt="Diagram" width="400" height="390">
+  </a>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/80778103/111676451-2bb13f00-87ec-11eb-927b-2f8271e7b5c6.jpg" alt="Diagram" width="400" height="405">
+  </a>
+ <p align="center">
+    <img src="https://user-images.githubusercontent.com/80778103/111676502-3a97f180-87ec-11eb-8f0c-c78a53216a70.jpg" alt="Diagram" width="400" height="292">
+  </a>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/80778103/111676519-3d92e200-87ec-11eb-8a5e-4683bdbddb4c.jpg" alt="Diagram" width="400" height="277">
+  </a>
 
 <!-- CONTRIBUTING -->
 ## Contributing
