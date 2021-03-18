@@ -45,6 +45,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#code Images">Prerequisites</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -108,6 +109,7 @@ You can do this using the command prompt and the pip installer
   pip install tensor2tensor
   ```
 
+### Code images
 
 <!-- CONTRIBUTING -->
 ## Contributing
