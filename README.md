@@ -21,11 +21,11 @@
     A README section to explain our project!
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Project Binder</a>
+    <a href="https://docs.google.com/presentation/d/1KfYwGe0AA0E7Ch4aedEjBdQMeWxgiPScIx-qY8ihDGc/edit?usp=sharing">Detailed Project Directions Project Binder</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">YWPN Presentation</a>
+    <a href="">YWPN Presentation</a>
+     ·
   </p>
 </p>
 
@@ -74,8 +74,11 @@ Required materials to implement this model are...
 * 9 v battery
 * Rocker Switch
 * Piezo Buzzer
-* .96" OLED display 
+* .96" OLED display ![Picture3]()
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/80778103/111673724-42a26200-87e9-11eb-811c-1e9bbb390229.png" alt="Diagram" width="500" height="237">
+  </a>
 
 
 <!-- GETTING STARTED -->
@@ -97,8 +100,6 @@ You can do this using the command prompt and the pip installer
 * Math
 * os
 * tensorflow
-
-
 
   ```sh
   pip install numpy
