@@ -24,7 +24,7 @@
     ·
     <a href="https://docs.google.com/presentation/d/1KfYwGe0AA0E7Ch4aedEjBdQMeWxgiPScIx-qY8ihDGc/edit?usp=sharing">Detailed Project Directions Project Binder</a>
     ·
-    <a href="">YWPN Presentation</a>
+    <a href="https://docs.google.com/presentation/d/11XmQhKTzX6NftyJUHzmJs5xDNz7pBZND4y6fTvALAWo/edit?usp=sharing">YWPN Presentation</a>
      ·
   </p>
 </p>
