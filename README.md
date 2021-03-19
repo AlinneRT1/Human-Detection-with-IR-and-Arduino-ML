@@ -146,7 +146,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/AlinneRT1/Infrared-Detection-Prototype/blob/main/README.md](https://github.com/AlinneRT1/Infrared-Detection-Prototype/blob/main/README.md)
+Project Link: [https://github.com/AlinneRT1/Human-Detection-with-IR-and-Arduino-ML](https://github.com/AlinneRT1/Human-Detection-with-IR-and-Arduino-ML)
 
 
 
