@@ -11,7 +11,7 @@ import os
 
 # set up a grid
 points = [(math.floor(ix / 8), (ix % 8)) for ix in range(0, 64)]
-print(points)
+#print(points)
 grid_x, grid_y = np.mgrid[0:7:32j, 0:7:32j]
 TEMP = 10
 COLORDEPTH = 1024
@@ -31,8 +31,9 @@ x = np.array([21.25, 21.50, 21.75, 21.75, 21.75, 21.75, 22.50, 22.25,
 colors = []
 color = 0
 
+
 #Name of the picture
-name = '100'
+name = str(input("What is the name of this picture? "))
 
 height = 240
 width = 240
@@ -73,9 +74,10 @@ bicubic = griddata(points, data, (grid_x, grid_y), method='cubic')
 #print(len(bicubic))
 bicubic = bicubic.astype(int)
 
+lable = str(input("Is this photo positive or negative? "))
 # This is the pathe for where to save the image
 # Set the directory to positive or negative here
-path = os.path.join(os.path.expanduser('~'), 'Documents', 'imgdetect-utils-master', 'imgdetect-utils-master', 'datasets', 'ir', 'images', 'negative', (name +'.png'))
+path = os.path.join(os.path.expanduser('~'), 'Documents', 'imgdetect-utils-master', 'imgdetect-utils-master', 'datasets', 'ir', 'images', lable, (name +'.png'))
 #print(path)
 
 #Make an image from the array and multiply the values by 255 to make them visible once the image is saved
